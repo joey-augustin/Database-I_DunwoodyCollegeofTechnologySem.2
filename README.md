@@ -1,6 +1,6 @@
 # Database I - Dunwoody College of Technology - Sem.2
 
-This repository contains all of the homework assignments I completed during for Database I:
+This repository contains all of the homework assignments I completed for Database I:
 
 ## Assignments:
 1) **Assignment1** - Developing entity tables, relationships, and basic queries + Entity Relationship Diagram
