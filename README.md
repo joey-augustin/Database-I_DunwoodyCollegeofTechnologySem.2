@@ -1,2 +1,7 @@
-# Database-I_DunwoodyCollegeofTechnologySem.2
-Advanced SQL programming, database schema design, ETL development, and database administration coursework.
+# Database I - Dunwoody College of Technology - Sem.2
+
+This repository contains all of the homework assignments I completed during for Database I:
+
+## Assignments:
+1) **Assignment1** - Developing entity tables, relationships, and basic queries + Entity Relationship Diagram
+2) 
