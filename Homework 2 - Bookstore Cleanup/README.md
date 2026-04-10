@@ -5,7 +5,7 @@ The goal of this assignment was to build upon an existing MySQL Bookstore Schema
 
 ## What I Learned
 - Improving Query Performance
-- RBAC Basics
+- Role-Based Access Control (RBAC) Basics
 - Database Design From a Business and User Perspective
 
 ## Technologies
