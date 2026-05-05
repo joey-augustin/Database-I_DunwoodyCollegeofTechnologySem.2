@@ -2,6 +2,9 @@
 
 This repository contains all of the homework assignments I completed for Database I:
 
+## Final:
+1) **Final Project - Sushi Bar**: 
+
 ## Assignments:
 1) **Homework 1 - Student Database**: Developing entity tables, relationships, and basic queries + Entity Relationship Diagram
 2) **Homework 2 - Bookstore Cleanup**:
